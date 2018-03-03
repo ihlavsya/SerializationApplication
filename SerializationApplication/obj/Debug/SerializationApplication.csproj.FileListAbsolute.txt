@@ -1,0 +1,17 @@
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\App.g.cs
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication_MarkupCompile.cache
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication_MarkupCompile.lref
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\bin\Debug\SerializationApplication.exe.config
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\bin\Debug\SerializationApplication.exe
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\bin\Debug\SerializationApplication.pdb
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\MainWindow.baml
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.g.resources
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.Properties.Resources.resources
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.exe
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\obj\Debug\SerializationApplication.pdb
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\bin\Debug\AvalonLibrary.dll
+C:\Users\Maria\Documents\Visual Studio 2017\Projects\GlobalLogic\SerializationApplication\SerializationApplication\bin\Debug\AvalonLibrary.xml
